@@ -16,5 +16,8 @@
   ],
   "author": "John BEPPU",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request": "~2.16.6"
+  }
 }
