@@ -1,0 +1,20 @@
+{
+  "name": "node-imgur3",
+  "version": "0.0.1",
+  "description": "a client library for imgur api v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DimensionSoftware/node-imgur3.git"
+  },
+  "keywords": [
+    "imgur",
+    "client"
+  ],
+  "author": "John BEPPU",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
